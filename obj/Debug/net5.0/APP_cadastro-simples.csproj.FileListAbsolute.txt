@@ -1,0 +1,16 @@
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\APP_cadastro-simples.exe
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\APP_cadastro-simples.deps.json
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\APP_cadastro-simples.runtimeconfig.json
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\APP_cadastro-simples.runtimeconfig.dev.json
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\APP_cadastro-simples.dll
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\ref\APP_cadastro-simples.dll
+C:\workspace\APP_cadastro-simples\bin\Debug\net5.0\APP_cadastro-simples.pdb
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.csprojAssemblyReference.cache
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.AssemblyInfoInputs.cache
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.AssemblyInfo.cs
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.csproj.CoreCompileInputs.cache
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.dll
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\ref\APP_cadastro-simples.dll
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.pdb
+C:\workspace\APP_cadastro-simples\obj\Debug\net5.0\APP_cadastro-simples.genruntimeconfig.cache
